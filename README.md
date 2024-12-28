@@ -1,4 +1,4 @@
-# DLL searcher
+# Legit-DLL-Finder
 
 The purpose of this program is to recursively search a directory for DLLs that have a Read Write and Execute sections
 and are also with an embedded signature. If such sections are found they are printed on the console.
